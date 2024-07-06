@@ -1,2 +1,2 @@
-# dio-trilha0java-basico
+# dio-trilha-java-basico
 Repositório para exemplos do curso de Java pela DIO
